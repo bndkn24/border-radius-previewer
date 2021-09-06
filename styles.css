@@ -114,6 +114,17 @@ footer {
     margin-top: 10px;
   }
 
+  input[type="range"] {
+    margin: 10px;
+    width: 150px;
+    appearance: none;
+    height: 3px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+  }
+
   input[type="text"] {
     margin: 10px;
     width: 200px;
