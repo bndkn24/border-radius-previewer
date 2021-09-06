@@ -33,8 +33,8 @@ function updatebox() {
     radiusvalues.bottomlefty +
     "%;";
 
-  inputText.value = "border-radius: " + radius;
-  box.setAttribute("style", radius);
+  inputText.value = radius;
+  box.setAttribute("style", "border-radius: " + radius);
 }
 
 inputRange.forEach((range) => {
