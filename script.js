@@ -16,7 +16,6 @@ updatebox();
 
 function updatebox() {
   let radius =
-    "border-radius: " +
     radiusvalues.topleftx +
     "% " +
     radiusvalues.toprightx +

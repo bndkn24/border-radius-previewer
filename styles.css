@@ -39,7 +39,7 @@ p {
 
 input[type="text"] {
   margin: 10px;
-  width: 510px;
+  width: 380px;
   height: 40px;
   font: 15px Monaco, "Courier New", monospace;
   font-weight: bold;
@@ -93,7 +93,7 @@ footer {
 @media only screen and (max-width: 1055px) {
   input[type="text"] {
     margin: 10px;
-    width: 410px;
+    width: 380px;
     height: 40px;
     font: 12px Monaco, "Courier New", monospace;
     font-weight: bold;
