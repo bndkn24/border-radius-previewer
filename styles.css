@@ -39,7 +39,8 @@ p {
 
 input[type="text"] {
   margin: 10px;
-  width: 440px;
+  min-width: 40;
+  max-width: 300;
   height: 40px;
   font: 15px Monaco, "Courier New", monospace;
   font-weight: bold;
