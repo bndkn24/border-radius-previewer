@@ -103,7 +103,7 @@ footer {
 @media only screen and (max-width: 840px) {
   input[type="text"] {
     margin: 10px;
-    width: 272px;
+    width: 250px;
     height: 40px;
     font: 8px Monaco, "Courier New", monospace;
     font-weight: bold;
